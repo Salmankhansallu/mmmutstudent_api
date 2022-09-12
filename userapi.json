@@ -1,0 +1,74 @@
+[
+    {
+        "id":1,
+        "roll no":2019021124,
+        "name":"Salman Khan",
+        "branch":"cse",
+        "address":"muzaffarnagar"
+    },
+    {
+        "id":2,
+        "roll no":2019021128,
+        "name":"Sarvesh kumar pal",
+        "branch":"cse",
+        "address":"varanasi"
+    },
+    {
+        "id":3,
+        "roll no":2019021126,
+        "name":"Aman kumar",
+        "branch":"cse",
+        "address":"aurangabad"
+    },
+    {
+        "id":4,
+        "roll no":2019021150,
+        "name":"Sudarshan singh vais",
+        "branch":"cse",
+        "address":"sonbhadra"
+    },
+    {
+        "id":5,
+        "roll no":2019021122,
+        "name":"Sahil kumar",
+        "branch":"cse",
+        "address":"noida"
+    },
+    {
+        "id":6,
+        "roll no":2019021125,
+        "name":"Sameer maurya",
+        "branch":"cse",
+        "address":"delhi"
+    },
+    {
+        "id":7,
+        "roll no":2019021129,
+        "name":"dinesh kumar",
+        "branch":"cse",
+        "address":"gorakhpur"
+    },
+    {
+        "id":8,
+        "roll no":2019021134,
+        "name":"Samshad alam",
+        "branch":"cse",
+        "address":"kushinagar"
+    },
+    {
+        "id":9,
+        "roll no":2019021194,
+        "name":"kajal singh",
+        "branch":"cse",
+        "address":"gorakhpur"
+    },
+    {
+        "id":10,
+        "roll no":2019021144,
+        "name":"pooja kumari",
+        "branch":"cse",
+        "address":"roorkee"
+    }
+
+    
+]
